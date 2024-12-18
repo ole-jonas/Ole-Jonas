@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hei 👋
+Mitt navn er Ole Jonas<br> Jeg har gått et kodekurs hos JobLoop høsten 2024.
 
 <!--
 **ole-jonas/Ole-Jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
